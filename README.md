@@ -9,4 +9,7 @@ This GitHub repository contains code complementing the paper
 
 
 
+## The correspondence from Appendix D of The [arxiv version](https://arxiv.org/abs/2105.00611))
+
+
 
