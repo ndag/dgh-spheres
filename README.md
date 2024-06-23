@@ -3,7 +3,7 @@
 
 This GitHub repository contains code complementing the paper 
 
-``The Gromov-Hausdorff distance between spheres", by Sunhyuk Lim, Facundo Mémoli and Zane Smith. (to appear, Geometry and Topology. The [arxiv version is here](https://arxiv.org/abs/2105.00611).)
+``The Gromov-Hausdorff distance between spheres", by Sunhyuk Lim, Facundo Mémoli and Zane Smith. Geometry and Topology <https://msp.org/gt/2023/27-9/p07.xhtml>. The [arxiv version is here](https://arxiv.org/abs/2105.00611).
 
 
 <img src="/dm-spheres-mat.png" width="500" height="auto">
