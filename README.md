@@ -13,7 +13,7 @@ The matlab script *corresp_s1_s2_app_D.m* provides code for constructing the cor
 
 
 
-# Embedding Projection Corresponds for estimating the Gromov-Hausdorff distance between spheres
+# Embedding Projection Correspondences (EPCs) for estimating the Gromov-Hausdorff distance between spheres
 
 This code implements certain surjective maps between spheres which have 'low' distortion. As such these can be used to upper bound the **Gromov-Hausdorff distance** between spheres (when endowed with their geodesic distances).
 
