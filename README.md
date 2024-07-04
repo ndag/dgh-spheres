@@ -48,4 +48,4 @@ when $n=2k$,   $$\tilde{\gamma}_n(t) = (\cos(t),\sin(t),\cos(3t),\sin(3t),\ldots
 [2] Gromov-Hausdorff distances, Borsuk-Ulam theorems, and Vietoris-Rips complexes. Henry Adams, Johnathan Bush, Nate Clause, Florian Frick, Mario Gómez, Michael Harrison, R. Amzi Jeffs, Evgeniya Lagoda, Sunhyuk Lim, Facundo Mémoli, Michael Moy, Nikola Sadovek, Matt Superdock, Daniel Vargas, Qingsong Wang, Ling Zhou. https://arxiv.org/abs/2301.00246
 
 [3] Embedding-Projection Correspondences for the estimation of the Gromov-Hausdorff distance.
-F. M\'emoli and Z. Smith. 
+F. M\'emoli and Z. Smith.  https://arxiv.org/pdf/2407.03295
